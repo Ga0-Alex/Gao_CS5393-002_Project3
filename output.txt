@@ -1,0 +1,12 @@
+C:\Users\cptal\CLionProjects\Gao_CS5393-002_Project3\cmake-build-debug\Project_1.exe train_dataset_20k.csv test_dataset_
+10k.csv test_dataset_sentiment_10k.csv results.csv accuracy.txt
+Training classifier...
+Analyzing test data...
+Evaluating accuracy...
+Analysis complete! Accuracy: 0.715
+
+Timing Analysis:
+Training time:   157ms
+Analysis time:   102ms
+Evaluation time: 18ms
+Total time:      280ms
